@@ -22,3 +22,23 @@ body{
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.div-header{
+    padding: 16px 128px 32px;
+}
+
+.div-header ul{
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+}
+
+.div-header ul a {
+    text-decoration: none;
+    color: white;
+}
+
+.div-header-row1{
+    display: flex;
+    justify-content: space-between
+}
