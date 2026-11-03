@@ -1,0 +1,24 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+.div-header, .div-footer{
+    background-color: #1F2937;
+    color: white;
+}
+
+#header_logo{
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+#hero_main_text{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+#hero_secondary_text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
