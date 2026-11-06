@@ -78,3 +78,18 @@ body{
     margin-top: 32px;
     margin-bottom: 32px;
 }
+
+.picture_element img{
+    width: 150px;
+    height: 150px;
+    border: 5px solid #3882F6;
+    border-radius: 10%;
+
+}
+
+.picture_element div{
+    margin-top: 8px;
+    width: 150px;
+    text-align: center;
+    color: grey;
+}
