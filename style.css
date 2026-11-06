@@ -93,3 +93,11 @@ body{
     text-align: center;
     color: grey;
 }
+
+#picture_row{
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+
+    margin-bottom: 128px;
+}
