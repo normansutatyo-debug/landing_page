@@ -57,9 +57,12 @@ body{
     background-color: gray;
 }
 
-/*
-.div-header-column{
-    display: flex;
-    flex-direction: column;
+#sign_up_button{
+    padding: 8px 32px;
+    background-color: #3882F6;
+    color: white;
+    font-size:large;
+    border-radius: 10%;
+    border: 1px solid #3882F6;
 }
     */
